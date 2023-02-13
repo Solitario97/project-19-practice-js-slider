@@ -15,6 +15,7 @@ sliderItems.forEach(function (slide, index) {
 
     slide.addEventListener('click', function () {
         slide.classList.add('hidden');
+        
 
 
        /* обычный код а ниже будет сокращенный код с помощью унарного оператора 
